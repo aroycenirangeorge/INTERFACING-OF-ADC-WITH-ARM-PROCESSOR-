@@ -36,7 +36,7 @@ simple example.c, Uart Receiver interrupt.c, lcd.c, lcd.h
  
  
 # PROGRAM:
-c++
+```cpp
 #include"lcd.h" 
 void ADCExp(); 
 int main(void)
@@ -49,6 +49,7 @@ while(1)
 {
 }
 }
+```
 
 # OUTPUT:
 <img width="558" height="375" alt="image" src="https://github.com/user-attachments/assets/43724009-8749-424c-934a-9600e558e026" />
